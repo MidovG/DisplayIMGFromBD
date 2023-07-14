@@ -1,1 +1,1 @@
-# myProject
+# Gallery Service
